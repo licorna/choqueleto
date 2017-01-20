@@ -1,6 +1,6 @@
-# Chocoleto #
+# Choqueleto #
 
-**Chocoleto** is a new GNU/Linux distribution, based on Xubuntu, aimed at
+**Choqueleto** is a new GNU/Linux distribution, based on Xubuntu, aimed at
 curious kids of all ages. I've been revieweing distributions for kids
 and none of them seem to take into account the curiosity of kids,
 which is, from my perspective, one of the main characteristics to
@@ -30,7 +30,7 @@ with the world, brothers and sisters, friends and cousins, parents,
 gran parents. This is meant to be a learning machine that will make
 the kid interact with his surroundings.
 
-**Chocoleto** will ask the kid to go out and investigate, find a leaf
+**Choqueleto** will ask the kid to go out and investigate, find a leaf
 on the garden, take a picture of it, register it and register the time
 of the year, and to write or record what color is it, what smell does
 to leaf have, how is the day outside: is it cold or warm? Did mommy or
@@ -38,10 +38,10 @@ daddy asked him to put his coat before going out? This will be a
 complete and long process of study and investigation, and the
 curiosity of the child will be always the priority.
 
-**Chocoleto** will know about current events, events that are
+**Choqueleto** will know about current events, events that are
 important for kids to understand, it will follow the launch of the
 James Webb Telescope into space and will show the kid pictures of its
-launch and how things are going up there, **Chocoleto** will make the
+launch and how things are going up there, **Choqueleto** will make the
 child participate in this event, and will also allow him to
 communicate with other kids and share his pictures with them, with new
 friends, far away from home, from other cultures. The kid will receive
@@ -50,7 +50,7 @@ have explanations about the galaxy, and the planets, and the
 cosmos. Different kids with different ages will have different
 explanations about what's going on.
 
-**Chocoleto** will teach music to the kids, a big collection of
+**Choqueleto** will teach music to the kids, a big collection of
 classic will be playable from the computer: classic music and music
 from the world will be included and the kid will be able to select his
 favorite music from the collection, he will learn the types of music,
@@ -64,29 +64,29 @@ not be afraid of treating the kids as smart as we are in terms of
 music, because no matter how young he or she are, they will be able to
 appreciate the music as any adult, even more.
 
-**Chocoleto** will present a consistent interface through its
+**Choqueleto** will present a consistent interface through its
 applications, there will be no more apps with different styles or that
 looked patched or inserted in with no consistency with other apps,
-**Chocoleto** will look as a real product aimed at intelligent and
-curious kids. **Chocoleto** will not be a bunch of educational
+**Choqueleto** will look as a real product aimed at intelligent and
+curious kids. **Choqueleto** will not be a bunch of educational
 software bundled into an operating system, it will make sense from
 login screen, to application selection, to application interoperation,
 to sharing, friends, and of course, recreational parts.
 
 ## Recreation ##
 
-**Chocoleto** will not be always a learning machine, it will allow the
+**Choqueleto** will not be always a learning machine, it will allow the
 kid to distract himself, she will be able to watch a video or call
 grandma if he wants (need to look into a usable video function that
 works on iOS and Android), but those activities will be regulated by
 mom and dad. He will be able to set goals for a day or week and then
-access the recreational parts of **Chocoleto** like watching a Youtube
+access the recreational parts of **Choqueleto** like watching a Youtube
 video (using our own controlled client) or draw freely using the
 drawing app. The kid will have to *earn* his recreational time.
 
 ## Arts & Science ##
 
-One of the main goals of **Chocoleto** is to make kids love arts,
+One of the main goals of **Choqueleto** is to make kids love arts,
 science and knowledge, by pushing his creativity and curiosity by
 teaching them about greatest works of art and science. Kids will learn
 about painting and music, which is easy for kids to understand and
@@ -96,7 +96,7 @@ mouse, he will use pen and paper and he will record these pieces of
 art and store them in folders, that he will make with his own hands
 (and with the help of mom, dad, granny, older brothers or
 friends). There will be no painting or crafting software in
-**Chocoleto**. Kids will not learn how to draw or will not appreciate
+**Choqueleto**. Kids will not learn how to draw or will not appreciate
 beauty of drawing if they use a computer (this applies to toddlers,
 for teenagers there will be digital art packages).
 
